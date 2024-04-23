@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockingDemo", "MockingDemo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoNoDI", "DemoNoDI\DemoNoDI.csproj", "{ECF499DE-EA5A-4D66-B660-129B96A14C5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoNoSOLID", "DemoNoSingleResponsibility\DemoNoSOLID.csproj", "{B8FB5C3B-F7D0-4D1E-B3F1-136443C11C82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ECF499DE-EA5A-4D66-B660-129B96A14C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECF499DE-EA5A-4D66-B660-129B96A14C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECF499DE-EA5A-4D66-B660-129B96A14C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FB5C3B-F7D0-4D1E-B3F1-136443C11C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FB5C3B-F7D0-4D1E-B3F1-136443C11C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FB5C3B-F7D0-4D1E-B3F1-136443C11C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FB5C3B-F7D0-4D1E-B3F1-136443C11C82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
